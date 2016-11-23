@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Robotyue
-  host: robotyue
+  name: rocket1o1Tomcat
+  host: rocket1o1tomcat
   disk_quota: 1024M
